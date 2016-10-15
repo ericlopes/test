@@ -1,0 +1,4 @@
+Just Write the lines of code like:
+>>> from pkg_test import metadata
+>>> metadata.license
+'mit'
