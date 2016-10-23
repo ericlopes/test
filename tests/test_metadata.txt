@@ -1,4 +1,0 @@
-Just Write the lines of code like:
->>> from package_name import metadata
->>> metadata.license
-'mit'
