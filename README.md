@@ -208,13 +208,13 @@ Or:
 
 ## License
 
-This project is released under BSD 2 clauses license.
+This project is released under MOZILLA license.
 
 proj-name Copyright (c) 2016 Me and You
 
-    This program comes with ABSOLUTELY NO WARRANTY;
-    This is free software, and you are welcome to redistribute it
-    under license conditions.
+    This Source Code Form is subject to the terms of the Mozilla Public
+    License, v. 2.0. If a copy of the MPL was not distributed with this
+    file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 Complete information can be found at the [LICENSE](LICENSE) file.
 
