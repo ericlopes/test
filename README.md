@@ -1,4 +1,4 @@
-# proj-test
+# proj-name
 
 A short description for the project
 
@@ -18,6 +18,8 @@ A short description for the project
 
 ## Features
 
+[↑](#quick-links)
+
 ----
 
 ## Requirements
@@ -25,6 +27,8 @@ A short description for the project
 * [python](https://www.python.org/download/releases/3.0/) >= 3.2
 * *(optional)* [pip](https://pypi.python.org/pypi/pip/)
 * *(optional)* [venv](https://docs.python.org/3/library/venv.html)
+
+[↑](#quick-links)
 
 ----
 
@@ -41,11 +45,11 @@ A short description for the project
 
 **Step 1**: Clone the project:
 
-    git clone https://github.com/nullhack/proj-test.git
+    git clone https://github.com/nullhack/proj-name.git
 
 **Step 2**: Move into project's path:
 
-    cd proj-test
+    cd proj-name
 
 **Step 3**: *(Optional, but good practice)* Create a new virtual environment (ENV):
   
@@ -64,7 +68,7 @@ If you are new to virtual environments, please see the `Virtual Environment sect
 
 **Step 5**: *(Optional)* View documentation:
 
-    firefox docs/build/sphinx/html/index.html
+    firefox docs/build/html/index.html
 
 **Step 6**: *(Optional)* Run the tests:
 
@@ -78,6 +82,8 @@ If you are new to virtual environments, please see the `Virtual Environment sect
 
     python3 main.py
 
+[↑](#quick-links)
+
 ----
 
 ## Usage: 
@@ -88,6 +94,8 @@ If you are new to virtual environments, please see the `Virtual Environment sect
 
     -h, --help     show this help message and exit
     -V, --version  show program's version number and exit
+
+[↑](#quick-links)
 
 ----
 
@@ -122,14 +130,14 @@ In the top-right corner of the page, click **Fork Button**
 
 Clone the repo using your own github login (YOUR_USERNAME):
 
-    git clone git@github.com:YOUR_USERNAME/proj-test.git
+    git clone git@github.com:YOUR_USERNAME/proj-name.git
 
 **Step 3**: Adding the Upstream Remote
 
 Change into the directory and then you can add the upstream remote:
 
-    cd proj-test
-    git remote add upstream git@github.com:nullhack/proj-test.git
+    cd proj-name
+    git remote add upstream git@github.com:nullhack/proj-name.git
 
 To pull in changes from the source locally and merge them:
 
@@ -167,11 +175,13 @@ Or:
 * Select your branch from the dropdown
 * click "Pull Request" or "Compare"
 
+[↑](#quick-links)
+
 ----
 
 ## Project Structure
 
-    proj-test
+    proj-name
     ├── docs
     │   ├── make.bat
     │   ├── Makefile
@@ -181,7 +191,7 @@ Or:
     ├── LICENSE
     ├── main.py
     ├── MANIFEST.in
-    ├── pkg_test
+    ├── package_name
     │   ├── __init__.py
     │   └── metadata.py
     ├── README.md
@@ -192,35 +202,32 @@ Or:
     └── tests
         └── test_metadata.txt
 
+[↑](#quick-links)
+
 ----
 
 ## License
 
-This project is released under mit license.
+This project is released under GPLv3 license.
 
-proj-test Copyright (c) 2016 Eric Lopes
+proj-name Copyright (c) 2016 Me and You
 
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Complete information can be found at the [LICENSE](LICENSE) file.
 
-
-For more info, please read the complete [license](LICENSE) file.
+[↑](#quick-links)
 
 ----
 

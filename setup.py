@@ -1,5 +1,5 @@
 from setuptools import setup
-from pkg_test import metadata as m
+from package_name import metadata as m
 
 def readme():
     with open('README.md') as f:
@@ -16,7 +16,7 @@ setup(name=m.package,
       classifiers=[
         "Development Status :: {}".format(m.release),
         "License :: OSI Approved :: {} License".format(m.license),
-        "Programming Language :: Python :: 3.2",
+        "Programming Language :: Python :: 3.3",
         "Topic :: Project :: Template",
       ],
       keywords=" ".join(m.keywords),

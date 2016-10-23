@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-"""Example Google style docstrings to use in pkg_test main module
+"""Example Google style docstrings to use in package_name main module
 
 This module demonstrates documentation as specified by the `Google Python
 Style Guide`_. Docstrings may extend over multiple lines. Sections are created
@@ -37,7 +37,7 @@ Todo:
 
 import argparse
 import sys
-from pkg_test import metadata
+from package_name import metadata
 
 module_level_variable1 = 12345
 
