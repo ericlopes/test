@@ -13,7 +13,7 @@ Quick links
 -  `Requirements <#requirements>`__
 -  `Project Setup <#project-setup>`__
 -  `Usage <#usage>`__
--  `Optional Arguments <#optional-arguments>`__
+  -  `Optional Arguments <#optional-arguments>`__
 -  `Contribute <#to-contribute>`__
 -  `Project Structure <#project-structure>`__
 -  `License <#license>`__
